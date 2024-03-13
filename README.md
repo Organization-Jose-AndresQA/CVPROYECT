@@ -42,7 +42,7 @@ Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
 [BDD Test Coverage](/Test-plans/functional-test-plan-and-bdd.pdf)
-Complete Functional BDD test coverage of the project.and live documentation
+Complete Functional BDD test coverage of the project.and live documentation 
 
 
 ### TEST RESULTS
