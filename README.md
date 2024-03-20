@@ -61,4 +61,4 @@ Functional and Regression test results and report for each project release.
 
 ## AUTHOR
 José Andrés, QA Analyst
-[LinkedIn Profile](www.linkedin.com/in/josé-andrés-lorca-gálvez-10183a286)
+[LinkedIn Profile](https://www.linkedin.com/in/jos%C3%A9-andr%C3%A9s-lorca-g%C3%A1lvez-10183a286/)
