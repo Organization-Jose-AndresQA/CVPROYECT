@@ -52,12 +52,9 @@ Functional and Regression test results and report for each project release.
 * [Regression Test Results 1.1](/Tests-results/Regression-test-results-release-1.1.pdf)
 
 #### Release version 1.2
-* [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
-* [Regression Test Results 1.2](/qa/1.2regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.2](/Tests-results/functional-tests-results-and-bug-report.release1.2.pdf)
+* [Regression Test Results 1.2](/Tests-results/Regression-test-results-release-1.2.pdf)
 
-#### Release version 1.3
-* [Functional Test Results and Bug Report 1.3](/qa/1.3testresults.pdf)
-* [Regression Test Results 1.3](/qa/1.3regressiontestresult.pdf)
 
 ## AUTHOR
 José Andrés, QA Analyst
